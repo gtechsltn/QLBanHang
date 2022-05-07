@@ -19,6 +19,10 @@
 + Thay đổi connection string cho phù hợp với SQL Server trên máy
 + F5 để chạy chương trình
 
+### Tài khoản admin 
++ Email: akhucute5@gmail.com
++ Pass: matkhau123
+
 # Lỗi thường gặp của sinh viên
 + Không tạo tệp Readme.md
 + Không tạo tệp .gitignore

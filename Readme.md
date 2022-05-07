@@ -1,7 +1,7 @@
 # Phần mềm quản lý bán hàng
 ## Công nghệ / kỹ thuật sử dụng trong dự án:
 + Windows 10
-+ .NET Framework 4.6.1
++ .NET Framework 4.7.2
 + ADO.NET
 + guna2.dll
 

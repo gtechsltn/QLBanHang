@@ -224,6 +224,12 @@
     <None Include="Resources\logo.png" />
     <None Include="Resources\gioithieu.png" />
     <None Include="Resources\hoso.png" />
+    <Content Include="Gioithieu.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Huongdan.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
     <Content Include="product.ico" />
     <Content Include="Resources\huongdan.png" />
     <None Include="Resources\logout.png" />

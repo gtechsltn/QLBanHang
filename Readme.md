@@ -7,6 +7,8 @@
 
 ## 3rd party
 + Guna.UI2.WinForms (guna2.dll)
++ https://gunaui.com/
++ https://laptrinhvb.net/bai-viet/devexpress/---Csharp----Gioi-thieu-thu-vien-Guna-Framework-dung-thiet-ke-giao-dien-winform-hien-dai/1f699727bac1e37f.html
 
 ## Hướng dẫn cách chạy chương trình
 + Tạo Database trên SQL Server 2014

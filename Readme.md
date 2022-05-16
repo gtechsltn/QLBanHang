@@ -1,9 +1,12 @@
 # Phần mềm quản lý bán hàng
 ## Công nghệ / kỹ thuật sử dụng trong dự án:
 + Windows 10
++ Visual Studio 2022
 + .NET Framework 4.7.2
 + ADO.NET
-+ guna2.dll
+
+## 3rd party
++ Guna.UI2.WinForms (guna2.dll)
 
 ## Hướng dẫn cách chạy chương trình
 + Tạo Database trên SQL Server 2014
